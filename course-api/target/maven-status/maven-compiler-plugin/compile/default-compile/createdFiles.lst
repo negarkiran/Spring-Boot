@@ -1,9 +1,0 @@
-com/example/spring/topic/TopicRepository.class
-com/example/spring/topic/TopicController.class
-com/example/spring/CourseApiApplication.class
-com/example/spring/course/CourseRepository.class
-com/example/spring/course/CourseController.class
-com/example/spring/topic/Topic.class
-com/example/spring/course/Course.class
-com/example/spring/course/CourseService.class
-com/example/spring/topic/TopicService.class
